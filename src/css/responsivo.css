@@ -1,0 +1,54 @@
+@media (max-width: 425px){
+    body{
+        background: url(../images/bg-mobile.svg) no-repeat;
+        background-color: hsl(257, 40%, 49%);
+        background-size: contain;
+    }
+
+    /* HEADER */
+
+    .logo{
+        padding: 30px;  
+        margin-bottom: 20px;
+    }
+
+    .logo img{
+        width: 130px;
+    }
+
+    /* MAIN */
+
+    main{
+        padding: 20px;
+    }
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .image img{
+        width: 340px;
+        height: 252px;
+    }
+    .container .info{
+        text-align: center;
+    }
+
+    .container .botao{
+        font-size: 12px;
+        padding: 10px 80px;
+        border-radius: 20px;
+    }
+    
+    /* FOOTER */
+
+    .footer .social{
+        margin: 0;
+        justify-content: center;
+        align-items: center;
+    }
+
+    
+}
