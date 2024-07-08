@@ -11,4 +11,4 @@ Um projeto de Css Avançado usando flexbox para criar uma pagina de layout do hu
 - CSS
 
 ## Aprendizados
-Durante a realização desse projeto sozinha, consegui botar em pratica todo o conteuno que aprendi no curso DevQuest até agora e perceber que já avancei o meu conhecimento e agora consigo utilizar o display flex e suas funções com facilidade.
+Durante a realização desse projeto sozinha, consegui botar em pratica todo o conteúdo que aprendi no curso DevQuest até agora e perceber que já avancei o meu conhecimento e agora consigo utilizar o display flex e suas funções com facilidade.
